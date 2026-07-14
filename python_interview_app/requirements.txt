@@ -1,0 +1,9 @@
+opencv-python
+numpy
+PyQt6
+mediapipe
+pymongo
+pyttsx3
+SpeechRecognition
+pyaudio
+google-genai
